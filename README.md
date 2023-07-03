@@ -1,4 +1,4 @@
-- I’m a 1st year student at the Politehnica University of Bucharest.
+- I’m a 2nd year student at the Politehnica University of Bucharest.
 - I’m interested in learning AI and Linux.
 - I’m currently learning  C and Rust
 - I’m looking to collaborate on any open-source project in which I can gain experience.
