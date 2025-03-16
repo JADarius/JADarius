@@ -2,4 +2,4 @@
 - I’m interested in learning systems programming.
 - I’m currently learning and working with Rust.
 - I’m looking to collaborate on any open-source project in which I can gain experience.
-- How to reach me: email ( jipad16@yahoo.com ) or on Github.
+- How to reach me: email ( jipadarius@gmail.com ) or on Github.
